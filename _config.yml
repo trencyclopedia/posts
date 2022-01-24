@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Eric
+title: Eric's posts
 brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://trencyclopedia.github.io/posts" # the base hostname & protocol for your site
+url: "https://trencyclopedia.github.io/posts/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
