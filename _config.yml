@@ -9,7 +9,7 @@
 title: Eric's posts
 brief-intro: 
 baseurl: "/posts" # the subpath of your site, e.g. /blog
-url: "" # https://trencyclopedia.github.io/posts/  the base hostname & protocol for your site
+url: "https://trencyclopedia.github.io/posts/" #   the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
