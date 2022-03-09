@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "things to improve"
+title: "post workflow"
 date: 2022-01-31
 categories: programing
 tags: jekyll front-end 
@@ -16,6 +16,9 @@ This ariticle will describe the template and workflow used to setup this post we
 - directory layout
 - [HyG](https://gaohaoyang.github.io/) theme
 - key features
+
+
+
 
 ## jekyll
 Generally speaking, [Jekyll ](https://jekyllrb.com/)is the tool to transform your markdown posts into a static website, by adding necessary components (e.g. html, css, directory structure) from built-in templates. This tool is also recommended by github to build [github pages](https://pages.github.com/)  for blogging. It has some free themes and simplify the process to create a website especially for novice people like me.  Besides, it is also possible to design and customize the theme if you are familiar with HTML and CSS, so it is flexible and extensible.  
